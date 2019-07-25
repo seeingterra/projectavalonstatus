@@ -3,7 +3,7 @@
 ############################################################
 
 # Your deployed site URL. Not needed in many cases.
-# baseUrl: "http://projectavalon.net/"
+# baseUrl: "http://projectavalon.ne/"
 
 # Required for scheduled items
 buildFuture: true
