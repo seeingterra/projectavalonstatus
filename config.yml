@@ -1,4 +1,5 @@
 title: Project Avalon systems status page
+baseURL: 'http://projectavalon.net'
 languageCode: en
 params:
   copyrightHolder: Project Avalon
